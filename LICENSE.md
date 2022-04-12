@@ -119,7 +119,7 @@ work as a whole, that **(a)** is included in the normal form of packaging a
 Major Component, but which is not part of that Major Component, and **(b)**
 serves only to enable use of the work with that Major Component, or to implement
 a Standard Interface for which an implementation is available to the public in
-source code form.  A “Major Component”, in this context, means a major essential
+source code form. A “Major Component”, in this context, means a major essential
 component (kernel, window system, and so on) of the specific operating system
 (if any) on which the executable work runs, or a compiler used to produce the
 work, or an object code interpreter used to run it.
@@ -510,7 +510,7 @@ from conveying the Program.
 Notwithstanding any other provision of this License, you have permission to link
 or combine any covered work with a work licensed under version 3 of the GNU
 Affero General Public License into a single combined work, and to convey the
-resulting work.  The terms of this License will continue to apply to the part
+resulting work. The terms of this License will continue to apply to the part
 which is the covered work, but the special requirements of the GNU Affero
 General Public License, section 13, concerning interaction through a network
 will apply to the combination as such.
@@ -591,11 +591,11 @@ to where the full notice is found.
 
     This program is distributed in the hope that it will be useful, but WITHOUT
     ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
-    FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for
+    FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for
     more details.
 
     You should have received a copy of the GNU General Public License along with
-    this program.  If not, see <http://www.gnu.org/licenses/>.
+    this program. If not, see <http://www.gnu.org/licenses/>.
 
 Also add information on how to contact you by electronic and paper mail.
 
@@ -603,7 +603,7 @@ If the program does terminal interaction, make it output a short notice like
 this when it starts in an interactive mode:
 
     <program>  Copyright (C) <year>  <name of author> This program comes with
-    ABSOLUTELY NO WARRANTY; for details type 'show w'.  This is free software,
+    ABSOLUTELY NO WARRANTY; for details type 'show w'. This is free software,
     and you are welcome to redistribute it under certain conditions; type
     'show c' for details.
 
